@@ -1,0 +1,1 @@
+../../testbase/sample_spec.rb
