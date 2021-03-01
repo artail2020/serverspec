@@ -1,5 +1,6 @@
 require 'rake'
 require 'rspec/core/rake_task'
+require 'aws-sdk-ec2'
 
 task :spec    => 'spec:all'
 task :default => :spec

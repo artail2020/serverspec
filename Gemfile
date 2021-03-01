@@ -9,3 +9,4 @@ gem "serverspec"
 gem "rake"
 gem "ed25519"
 gem "bcrypt_pbkdf"
+gem 'aws-sdk', '~> 3'
